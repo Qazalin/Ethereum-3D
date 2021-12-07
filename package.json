@@ -1,6 +1,10 @@
 {
-  "repository": "#",
-  "license": "UNLICENSED",
+  "name": "ethereum-3d",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Qazal <qazal.saamani@gmail.com>",
+  "description": "3D Ethereum built with Three JS",
+  "license": "MIT",
   "scripts": {
     "build": "webpack --config ./bundler/webpack.prod.js",
     "dev": "webpack serve --config ./bundler/webpack.dev.js"
